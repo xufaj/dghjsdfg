@@ -1,0 +1,11 @@
+{
+	"token": "YOUR LOGIN TOKEN HERE",
+	"servers": [
+		"519949004285411343",
+		"ID 2ND SERVER"
+	],
+	"Rainbow": "THE ROLE NAME YOU WANT TO CHANGE ITS COLOR FROM HERE",
+	"colors": 25,
+	"speed": 60000,
+	"logging": true
+}
